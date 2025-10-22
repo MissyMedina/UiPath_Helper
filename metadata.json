@@ -1,0 +1,5 @@
+{
+  "name": "Build UiPath WorkFlows with a Description.",
+  "description": "An application that generates optimal UiPath RPA workflow designs from a process description, offering both AI-powered and traditional solutions, complete with visual diagrams, component lists, and variable definitions.",
+  "requestFramePermissions": []
+}
